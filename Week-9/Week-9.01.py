@@ -4,7 +4,7 @@ A sentence is a string of single-space separated words where each word consists 
 
 Given two sentences s1 and s2, return a list of all the uncommon words. You may return the answer in any order.
 
-Example 1:
+Example 1: 
 
 Input: s1 = "this apple is sweet", s2 = "this apple is sour"
 
